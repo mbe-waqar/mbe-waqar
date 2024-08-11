@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @mbe-waqar
+👋 Hi, I’m Waqar Ali
 
-<!---
-mbe-waqar/mbe-waqar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Undergraduate Artificial Intelligence Student
+💼 Aspiring Data Analyst
+📊 Power BI | SQL Enthusiast
+
+I'm an undergraduate AI student passionate about the intersection of technology and data. With a strong foundation in AI principles and hands-on experience in data analysis, I’m eager to solve real-world problems. My toolkit includes Power BI for dynamic visualizations and SQL for efficient data management. I’m constantly learning and exploring new ways to leverage data for impactful insights.
+
+Let’s connect and build something amazing together!
