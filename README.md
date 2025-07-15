@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **LangChain, RAG, n8n, LLM workflows**
 
-- 👨‍💻 All of my projects are available at [github.com/mbe-waqar](github.com/mbe-waqar)
+- 👨‍💻 All of my projects are available at ([github.com/mbe-waqar](https://github.com/mbe-waqar))
 
 - 💬 Ask me about **Python, SQL, Excel, HTML/CSS, Power BI, Hugging Face Transformers**
 
