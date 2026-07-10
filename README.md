@@ -75,8 +75,12 @@ An LLM-powered browser automation platform built on a **dual-agent architecture*
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbe-waqar&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbe-waqar&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbe-waqar&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbe-waqar&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbe-waqar&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center"><i>Open to AI Engineering internships and entry-level Agentic AI / AI & Backend Engineer roles.</i></p>
