@@ -16,7 +16,7 @@
 - 🌱 Currently deepening my work in **LangGraph, RAG, n8n, and production LLM workflows**
 - 📜 **PIAIC Certified Agentic and Robotic AI Engineer** — working toward Anthropic's Claude Certified Architect (CCA-F)
 - 💬 Ask me about **Python, LangChain, LangGraph, RAG, FastAPI, Prompt Engineering, SQL, Power BI**
-- 📫 Reach me at **waqar.agentic.ai.com**
+- 📫 Reach me at **waqar.agentic.ai@gmail.com**
 
 ---
 
@@ -71,5 +71,11 @@ An LLM-powered browser automation platform built on a **dual-agent architecture*
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbe-waqar)
 
 ---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mbe-waqar&hide_border=true&theme=tokyonight" alt="GitHub Streak" /></a>
+</p>
 
 <p align="center"><i>Open to AI Engineering internships and entry-level Agentic AI / AI & Backend Engineer roles.</i></p>
