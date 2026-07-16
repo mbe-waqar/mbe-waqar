@@ -74,8 +74,9 @@ An LLM-powered browser automation platform built on a **dual-agent architecture*
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mbe-waqar&hide_border=true&theme=tokyonight" alt="GitHub Streak" /></a>
-</p>
+</p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=mbe-waqar&theme=dark)](https://git.io/streak-stats)
 
 <p align="center"><i>Open to AI Engineering internships and entry-level Agentic AI / AI & Backend Engineer roles.</i></p>
